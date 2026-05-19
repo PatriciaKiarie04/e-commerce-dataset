@@ -54,6 +54,40 @@ such as delivery experience, product quality, or customer service.
 - Develop female targeted marketing campaigns to close the gender order gap
 - Investigate and address the factors preventing customers from giving 5 star reviews
 
+## Deeper Analysis Findings
+
+### Age vs Spending
+No strong relationship was found between age and spending.
+Male customers showed slightly higher spending concentration across all age groups,
+but overall spending is fairly random suggesting the store appeals broadly across ages.
+
+### Age vs Review Score
+Older customers tend to rate slightly higher than younger ones.
+When grouped by age bracket, customers under 25, between 35-45 and above 55
+were most satisfied while the 45-55 age group was least satisfied.
+The overall difference between groups was small suggesting age is not
+a strong driver of satisfaction.
+
+### Price vs Review Score
+No relationship was found between price and satisfaction.
+Customers rate products similarly regardless of whether they cost $20 or $500,
+meaning price alone does not drive customer satisfaction or dissatisfaction.
+
+### Quantity vs Review Score
+Customers ordering 3 items rated highest while those ordering 1 or 5 items
+rated lower. This Goldilocks pattern suggests first time single item buyers
+need a better onboarding experience while bulk buyers may be experiencing
+delivery or fulfillment issues worth investigating.
+
+## Business Recommendations
+- Invest more inventory and marketing in Sports and Outdoors given its dominance
+- Run trust building campaigns around online and card payments to reduce cash dependency
+- Develop female targeted marketing campaigns to close the gender order gap
+- Investigate and address factors preventing customers from giving 5 star reviews
+- Improve first time buyer experience to convert single item purchasers into repeat customers
+- Investigate fulfillment and delivery process for bulk orders of 5 or more items
+- Focus satisfaction improvement efforts on the 45-55 age demographic
+
 ## Project Status
-Completed exploratory analysis and visualizations.
-Next steps include deeper statistical analysis and predictive modeling.
+Exploratory analysis and deeper statistical analysis completed.
+Next steps include predictive modeling using machine learning.
