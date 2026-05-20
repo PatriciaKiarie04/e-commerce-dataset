@@ -1,3 +1,4 @@
+![Banner](banner.png)
 # E-Commerce Data Analysis & Machine Learning Project
 
 ## Overview
