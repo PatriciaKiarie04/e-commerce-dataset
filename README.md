@@ -161,6 +161,24 @@ understanding your data before building models.
 - Sentiment analysis on customer reviews could provide stronger signals
 
 ## Project Status
-Data cleaning, exploratory analysis, visualization, deeper statistical 
-analysis and machine learning model completed.
-Next steps include feature engineering and model improvement.
+✅ Data Cleaning
+✅ Exploratory Data Analysis
+✅ Visualizations
+✅ Deeper Statistical Analysis
+✅ Machine Learning Model
+✅ Model Evaluation
+✅ Business Recommendations
+
+## Future Improvements
+- Collect richer features such as delivery time, return history and 
+  customer lifetime value to improve model accuracy
+- Address class imbalance using oversampling techniques such as SMOTE
+- Test advanced models such as XGBoost or Neural Networks
+- Build an interactive dashboard using Tableau or Power BI
+- Perform sentiment analysis on customer reviews for deeper satisfaction insights
+
+## Author
+- Data Science Undergraduate | Passionate about using data to drive 
+  business strategy and decision making
+- Tools: Python, Pandas, Matplotlib, Seaborn, Scikit-learn
+- Currently exploring the intersection of Data Science, Business and AI
